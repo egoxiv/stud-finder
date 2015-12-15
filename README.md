@@ -2,7 +2,7 @@
 
 A SPA (single page app) website for an equestrian establishment offering breeding and sales of Registered Tennesee Walking Horses. 
 
-Created for CodeFellows 301 class, DEC 2015 by Laurie Brown, Whitney Harvey, and Erick Gomez.
+Created for CodeFellows 301 class, DEC 2015 by Laurie Brown, Whitney Harvey, and Erik Gomez.
 
 ## User Stories: Viewer
 
