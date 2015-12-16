@@ -1,7 +1,8 @@
   /*===== Play button =====*/
   #play-container {
-    float:left;
+    /*float:left;*/
     position:relative;
+    border: 1px solid green;
   }
 
   #play-container:hover .play {
@@ -10,13 +11,14 @@
 
 .play {
   position: absolute;
-  display: none;
+  /*display: none;*/
   top: 28%;
   width: 80%;
   margin: 0 auto;
   left: 0px;
   right: 0px;
-  z-index: 100
+  z-index: 100;
+  border: 1px solid pink;
 }
 /*===== /Play button =====*/
 
