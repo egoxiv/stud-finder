@@ -15,7 +15,6 @@ $(function(){
       });
     })
   }
-
   playButton();
 
   function galleryTemplate() {
@@ -23,7 +22,7 @@ $(function(){
       console.log(data);
       var compileTemplate = Handlebars.compile(data);
       var html = compileTemplate;
-      $(".template").append(html);
+      $(".template").append(html); //currently appending to .template class in html
     })
   }
   galleryTemplate();
