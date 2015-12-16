@@ -18,8 +18,6 @@ $(function(){
 
   playButton();
 
-
-
   function galleryTemplate() {
     $.get("templates/gallery.html", function(data){
       console.log(data);
